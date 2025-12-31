@@ -2,6 +2,12 @@
 
 ![AI](images/robotic.jpg "NumPy Cheat Sheet")
 
+## Dataset
+The dataset used in this project is derived from the CICIDS 2017 dataset.
+It consists of real network traffic captured in PCAP format and converted
+into CSV files using CICFlowMeter. The dataset contains both benign traffic
+and DDoS attack traffic with multiple flow-based features.
+
 ### Neural Networks and Algorithms 🤹‍♀️
 * [📺 Reinforcement Learning](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
 * [📺 Desicion Trees](https://www.youtube.com/watch?v=jVh5NA9ERDA)
