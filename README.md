@@ -27,3 +27,14 @@ and DDoS attack traffic with multiple flow-based features.
 | SVM | 97.12 %|
 | Desicion Trees |99.95 % 
 
+## 📁 How to Run
+1. Place dataset CSV files in a `dataset/` folder
+2. Open and run:
+   - `Detection of DDOS Attack.ipynb`
+   - `Desicion Trees.ipynb`
+   - `Training_RNN_DDOS_Attack.ipynb`
+
+## 🛠️ Dependencies
+Install with:pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
+## 📌 Notes
+- Dataset is large and not included; please download from the official source.
