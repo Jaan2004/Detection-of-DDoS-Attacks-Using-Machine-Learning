@@ -1,4 +1,4 @@
-## **Detection of DDOS attacks by comparing classical machine learning method, reinforcement learning and deep learning methods**
+## **Detection of DDOS attacks by comparing classical machine learning method and deep learning methods**
 
 ![AI](images/robotic.jpg "NumPy Cheat Sheet")
 
