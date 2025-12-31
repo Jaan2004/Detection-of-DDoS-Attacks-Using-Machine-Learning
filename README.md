@@ -13,6 +13,7 @@ and DDoS attack traffic with multiple flow-based features.
 * [📺 Recurrent Neural Network](https://www.youtube.com/watch?v=y7qrilE-Zlc)
 * [📺 LSTM](https://www.youtube.com/watch?v=BSpXCRTOLJA)
 * [📺 Bidirectional LSTM](https://www.youtube.com/watch?v=bTXGpATdKRY)
+* [📺 Support Vector Machine (SVM) ](https://www.youtube.com/watch?v=bTXGpATdKRY)
 
 ![Image](images/bwd_packet_length.jpg "image")
 
